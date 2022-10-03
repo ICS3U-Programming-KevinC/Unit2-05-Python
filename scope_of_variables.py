@@ -2,7 +2,7 @@
 
 # Created by Kevin Csiffary
 # Date: Oct. 2, 2022
-# This program prints "Hello, World!" and has comments
+# This program uses scope of variables
 
 
 def main():
